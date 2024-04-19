@@ -1,6 +1,7 @@
 ### Olá, sou a Karina Ribeiro Selingardi 🖐 :)
 
-Sou uma desenvolvedora apaixonada por tecnologia. Atualmente, focada no desenvolvimento de backend nas linguagens C/C++, Java e Python;
+Sou uma desenvolvedora apaixonada por tecnologia e em busco novos conhecimentos a cada dia .
+Atualmente, focada no desenvolvimento de backend nas linguagens C/C++, Java e Python;
 Possuo interesses nas áreas de Cloud Computing , já tendo utilizado as  nuvens da  Azure , AWS e Salesforce; 
 e na área de programação em si já me ambientei com as IDE's IntelliJ, PyCharm e VSCode ;
 Tenho muito curiosidade na área de Segurança cibernética, em que utilizei a  VMWare Workstation com KaliLinux para o meu aprendizado.
