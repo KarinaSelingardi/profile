@@ -1,11 +1,10 @@
 ### Olá, sou a Karina Ribeiro Selingardi 🖐 :)
 
 Sou uma desenvolvedora apaixonada por tecnologia e em busco novos conhecimentos a cada dia .
-Atualmente, focada no desenvolvimento de backend nas linguagens C/C++, Java e Python;
-Possuo interesses nas áreas de Cloud Computing , já tendo utilizado as  nuvens da  Azure , AWS e Salesforce; 
+Atualmente,  estou focada no desenvolvimento de backend nas linguagens C/C++ e Java;
+Possuo interesses nas áreas de Programação , Cloud , a qual faça inciação científica atualmente com foco em Data Spaces, e  Segurança da Informação  
 e na área de programação em si já me ambientei com as IDE's IntelliJ, PyCharm e VSCode ;
-Também Tenho muito curiosidade na área de Segurança cibernética, em que utilizei a  VMWare Workstation com KaliLinux para o meu aprendizado.
- Atualmente estou realizando um projeto de Machine Learning e IA com Google Colab, uma área que estou me identificando bastante .
+ 
 **Me encontre em:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-selingardi-753a80246/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KarinaSelingardi)
 
 ---
